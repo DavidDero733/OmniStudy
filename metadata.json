@@ -1,0 +1,6 @@
+{
+  "name": "OmniStudy AI - Instant Academic & Quiz Solver",
+  "description": "Lightning-fast, stealth-capable AI academic solver for IXL exercises, quizzes, STEM problems, and essay drafting with screenshot OCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
